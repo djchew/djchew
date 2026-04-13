@@ -22,14 +22,6 @@ Building end-to-end data solutions — from raw data pipelines to production das
 - Data: Pandas, Polars, dbt, SQL
 - Databases: PostgreSQL, Neon, Supabase
 
-**Analytics & Visualization:**
-- Looker, Metabase, Grafana, Streamlit
-
-**Web & Infrastructure:**
-- Astro, FastAPI, React, Docker
-- Netlify, Vercel, Render
-
----
 
 ## Featured Projects
 
