@@ -8,7 +8,7 @@ Building end-to-end data solutions — from raw data pipelines to production das
 
 ## What I Do
 
-- **Data Pipelines & ETL**: Designed and optimized enterprise pipelines (85% throughput improvement at Telstra)
+- **Data Pipelines & ETL**: Designed and optimized enterprise pipelines
 - **Analytics & BI**: SQL, Python, dashboarding — turning data into decisions
 - **Full-Stack Data Projects**: From sourcing and modelling through to web visualization
 - **3+ years** working with enterprise data systems
