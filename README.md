@@ -1,24 +1,65 @@
-### Hi there, I’m Darrell
+# Hey there! 👋 I'm Darrell
 
-## About Me
-:scroll: Bachelor of Science (Major in Data Science, Second Class Honours) graduate at the University of Melbourne.
+**Data Analyst & Analytics Engineer** | Melbourne, Australia 🇦🇺
 
-:books: University of Melbourne Peer Mentor.
+Building end-to-end data solutions — from raw data pipelines to production dashboards. I focus on clean systems, measurable impact, and quality-first engineering.
 
-:bookmark_tabs: Check my CV [live on Overleaf.](https://www.overleaf.com/read/yybzhxxbnhfj)
+---
 
-:link: [LinkedIn Profile](https://www.linkedin.com/in/darrell-chew-0aa808206/) <img src = "https://camo.githubusercontent.com/10d3f5c685e3583d3200ba7e1e473171a1a765386685e3c98cf98633800a48d0/68747470733a2f2f62656c6f736572766963652e66696c65732e776f726470726573732e636f6d2f323031362f30332f686572726d616e732d6c696e6b6564696e2d6c6f676f2d353030783530302e706e67" width ="20" height ="20">
+## What I Do
 
-Open for private tutoring for any undergrad Data Science subject.
+- **Data Pipelines & ETL**: Designed and optimized enterprise pipelines (85% throughput improvement at Telstra)
+- **Analytics & BI**: SQL, Python, dashboarding — turning data into decisions
+- **Full-Stack Data Projects**: From sourcing and modelling through to web visualization
+- **3+ years** working with enterprise data systems
 
-I’m interested in data analytics and machine learning models.
+---
 
-I’m currently learning to improve my understanding of Apache Spark
+## Tech Stack
 
-I’m looking to collaborate on projects that explore geo-spatial analytics and algorithms.
+**Languages & Data Tools:**
+- Python, SQL, JavaScript/TypeScript
+- Data: Pandas, Polars, dbt, SQL
+- Databases: PostgreSQL, Neon, Supabase
 
+**Analytics & Visualization:**
+- Looker, Metabase, Grafana, Streamlit
 
-<!---
-djchew/djchew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Web & Infrastructure:**
+- Astro, FastAPI, React, Docker
+- Netlify, Vercel, Render
+
+---
+
+## Featured Projects
+
+**[Portfolio](https://darrellchew.com)** — Head over to my site to see:
+
+- **Melbourne Liveability Index** — Web app scoring 300+ Melbourne suburbs across crime, transport, schools, green space, and walkability. Full data pipeline + interactive dashboard.
+- **Real Estate Tracker** — Property analysis tool combining market data with custom scoring models.
+- **Finance Tracker** — Personal finance dashboard with transaction categorization and trend analysis.
+
+---
+
+## Current Interests
+
+- Improving data quality and pipeline reliability
+- Building tools that make data more accessible
+- Learning about the full data lifecycle (source → insight → action)
+- Open data projects that serve communities
+
+---
+
+## Let's Connect
+
+- **Portfolio & Resume**: [darrellchew.com](https://darrellchew.com)
+- **LinkedIn**: [linkedin.com/in/darrell-chew](https://linkedin.com/in/darrell-chew)
+- **Email**: darrellchew@hotmail.com
+
+---
+
+### Open to opportunities in data analytics, analytics engineering, and full-stack data projects — remote or Melbourne-based.
+
+---
+
+*Thanks for stopping by! Check out my repos below to see what I'm building. 👇*
